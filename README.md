@@ -2,6 +2,15 @@
 
 - [LinkedIn](https://linkedin.com/in/markyason) / [Mastodon](https://infosec.exchange/@markyason) / [Twitter](https://twitter.com/markyason)
 
+# Projects
+
+- [CVE-2021-28632 & CVE-2021-39840: Bypassing Locks in Adobe Reader](https://www.zerodayinitiative.com/blog/2021/10/20/cve-2021-28632-amp-cve-2021-39840-bypassing-locks-in-adobe-reader)
+  - Guest blog post in the Zero Day Initiative blog for discovered Adobe Reader vulnerabilities (CVE-2021-28632 & CVE-2021-39840)
+- [ZDI-21-171: Getting Information Disclosure in Adobe Reader Through the ID Tag](https://www.zerodayinitiative.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag)
+  - Discovered vulnerability in Adobe Reader (CVE-2021-21042) was featured in the Zero Day Initiative blog (Blog post by [Mat Powell](https://twitter.com/mrpowell))
+- [CVE-2020-9715: Exploiting a Use-After-Free in Adobe Reader](https://www.zerodayinitiative.com/blog/2020/9/2/cve-2020-9715-exploiting-a-use-after-free-in-adobe-reader)
+  - Discovered vulnerability in Adobe Reader (CVE-2020-9715) was featured in the Zero Day Initiative blog (Blog post by [Abdul-Aziz Hariri](https://twitter.com/AbdHariri) and [Mat Powell](https://twitter.com/mrpowell))
+
 # Publications
 
 - Windows 10 Segment Heap Internals
@@ -14,13 +23,13 @@
   - Hack In The Box Malaysia 2013 & Black Hat Asia 2014
   - [Paper](https://www.blackhat.com/docs/asia-14/materials/Yason/WP-Asia-14-Yason-Diving-Into-IE10s-Enhanced-Protected-Mode-Sandbox.pdf) / [Slides](https://www.blackhat.com/docs/asia-14/materials/Yason/Asia-14-Yason-Diving-Into-IE10s-Enhanced-Protected-Mode-Sandbox.pdf) / [Video](https://youtu.be/1tBCuYL69Ww)
 - Digging Deep Into The Flash Sandboxes
-  - Black Hat USA 2012, Co-Presenter w/ Paul Sabanal
+  - Black Hat USA 2012, Co-Presenter w/ [Paul Sabanal](https://twitter.com/polsab)
   - [Paper](https://media.blackhat.com/bh-us-12/Briefings/Sabanal/BH_US_12_Sabanal_Digging_Deep_WP.pdf) / [Slides](https://media.blackhat.com/bh-us-12/Briefings/Sabanal/BH_US_12_Sabanal_Digging_Deep_Slides.pdf)
 - Playing In The Reader X Sandbox
-  - Black Hat USA 2011, Co-Presenter w/ Paul Sabanal
+  - Black Hat USA 2011, Co-Presenter w/ [Paul Sabanal](https://twitter.com/polsab)
   - [Paper](https://media.blackhat.com/bh-us-11/Sabanal/BH_US_11_SabanalYason_Readerx_WP.pdf) / [Slides](https://media.blackhat.com/bh-us-11/Sabanal/BH_US_11_SabanalYason_Readerx_Slides.pdf)
 - Reversing C++
-  - Black Hat DC 2007 & Black Hat USA 2007, Co-Presenter w/ Paul Sabanal
+  - Black Hat DC 2007 & Black Hat USA 2007, Co-Presenter w/ [Paul Sabanal](https://twitter.com/polsab)
   - [Paper](https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Paper/bh-dc-07-Sabanal_Yason-WP.pdf) / [Slides](https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Presentation/bh-dc-07-Sabanal_Yason.pdf)
 - The Art of Unpacking
   - Black Hat USA 2007
