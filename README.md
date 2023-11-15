@@ -32,3 +32,10 @@
 - The Art of Unpacking
   - Black Hat USA 2007
   - [Paper](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) / [Slides](https://www.blackhat.com/presentations/bh-usa-07/Yason/Presentation/bh-usa-07-yason.pdf)
+
+# Mentions
+
+- [IBM ISS cracks open Conficker's secret communications code](https://www.lastwatchdog.com/ibm-iss-cracks-open-confickers-secret-communications/)
+  - The Last Watchdog (March 31, 2009)
+- [Experts See Early Activity From Conficker Worm](https://www.nytimes.com/2009/04/01/technology/internet/01virus.html)
+  - The New York Times (March 31, 2009)
