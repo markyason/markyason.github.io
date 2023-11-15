@@ -1,5 +1,6 @@
 ---
 title: Security Research
+layout: default
 ---
 
 # Projects
