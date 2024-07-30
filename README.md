@@ -1,7 +1,7 @@
 # Research
 
-- [Credited for 3 CVEs in the Security Update for Adobe Acrobat and Reader (August 2023)](https://helpx.adobe.com/security/products/acrobat/apsb23-30.html)
-  - Most recent vulnerability discoveries in Adobe Reader: CVE-2023-38222, CVE-2023-38224, CVE-2023-38225
+- [Software Vulnerabilities Discovered (CVEs)](https://markyason.github.io/cve)
+  - Most recent discovery in [Adobe Reader (2024-05-14)](https://helpx.adobe.com/security/products/acrobat/apsb24-29.html): CVE-2024-30284, CVE-2024-34094, CVE-2024-34095, CVE-2024-34096, CVE-2024-34097
 - [CVE-2021-28632 & CVE-2021-39840: Bypassing Locks in Adobe Reader](https://www.zerodayinitiative.com/blog/2021/10/20/cve-2021-28632-amp-cve-2021-39840-bypassing-locks-in-adobe-reader)
   - Guest blog post in the Zero Day Initiative blog for discovered Adobe Reader vulnerabilities (CVE-2021-28632 & CVE-2021-39840)
 - [ZDI-21-171: Getting Information Disclosure in Adobe Reader Through the ID Tag](https://www.zerodayinitiative.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag)
