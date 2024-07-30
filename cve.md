@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Software Vulnerabilities Discovered (CVEs)"
+permalink: /cve
+---
+
 # Software Vulnerabilities Discovered (CVEs)
 
 | Date  | Product | Advisory | CVE/s | Note/s |
