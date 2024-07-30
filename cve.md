@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Software Vulnerabilities Discovered (CVEs)"
 permalink: /cve
 ---
