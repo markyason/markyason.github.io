@@ -4,6 +4,9 @@ title: "Software Vulnerabilities Discovered (CVEs)"
 permalink: /cve
 ---
 # Software Vulnerabilities Discovered (CVEs)
+- [Adobe Reader (2024-08-13)](https://helpx.adobe.com/security/products/acrobat/apsb24-57.html)
+  - CVE-2024-39424
+    
 - [Adobe Reader (2024-05-14)](https://helpx.adobe.com/security/products/acrobat/apsb24-29.html)
   - CVE-2024-30284, CVE-2024-34094, CVE-2024-34095, CVE-2024-34096, CVE-2024-34097
     
