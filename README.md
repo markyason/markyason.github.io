@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Mark Vincent Yason | Software Reverse Engineer and Vulnerability Researcher"
+---
 # Research
 
 - [Software Vulnerabilities Discovered (CVEs)](https://markyason.github.io/cve)
