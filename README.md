@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mark Vincent Yason | Software Reverse Engineer and Vulnerability Researcher"
+title: "Mark Vincent Yason - Software Reverse Engineer and Vulnerability Researcher"
 permalink: /
 ---
 # Research
