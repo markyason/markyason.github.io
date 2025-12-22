@@ -4,6 +4,15 @@ title: "Software Vulnerabilities Discovered (CVEs)"
 permalink: /cve
 ---
 # Software Vulnerabilities Discovered (CVEs)
+- [Adobe Reader (2025-12-09)](https://helpx.adobe.com/security/products/acrobat/apsb25-119.html)
+  - CVE-2025-64899
+
+- [Adobe Reader (2025-06-10)](https://helpx.adobe.com/security/products/acrobat/apsb25-57.html)
+  - CVE-2025-43573, CVE-2025-43574
+
+- [Adobe Reader (2025-03-11)](https://helpx.adobe.com/security/products/acrobat/apsb25-14.html)
+  - CVE-2025-27159, CVE-2025-27160, CVE-2025-271561, CVE-2025-27162, CVE-2025-27174
+
 - [Adobe Reader (2024-08-13)](https://helpx.adobe.com/security/products/acrobat/apsb24-57.html)
   - CVE-2024-39424
     
